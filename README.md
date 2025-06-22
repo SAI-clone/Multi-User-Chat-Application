@@ -23,7 +23,7 @@ Open two (or more) separate terminal windows.
 In the first terminal, run the server:
 python server.py
 
-In the second (and subsequent) terminals, run the client:
+>In the second (and subsequent) terminals, run the client:
 python client.py
 
-Enter a nickname when prompted.
+>Enter a nickname when prompted.
